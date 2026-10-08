@@ -126,7 +126,7 @@ Los datos obtenidos mediante Google APIs se utilizan exclusivamente para proporc
 - Actualizar el evento cuando la reserva cambie o se cancele.
 - Resolver errores de sincronización y proteger la integridad del servicio.
 
-Para ello, Auragenda envía a Google Calendar los datos de la reserva necesarios para el evento: servicio, fecha y hora, estado, nombre y teléfono del cliente, notas de la reserva y profesional asignado. Mientras la conexión con Google Calendar está activa, Auragenda añade como invitados al cliente de la reserva y, cuando corresponda, al profesional asignado, utilizando las direcciones de email disponibles. Como consecuencia, Google Calendar puede enviar a dichos invitados correos de invitación y notificaciones relacionadas con la creación, modificación o cancelación del evento.
+Para ello, Auragenda envía a Google Calendar los datos de la reserva necesarios para el evento: servicio, fecha y hora, estado, nombre y teléfono del cliente, notas de la reserva y profesional asignado. Mientras la conexión con Google Calendar está activa, Auragenda añade como invitados al cliente de la reserva y, según la modalidad de reserva, al profesional asignado o, en las reservas por plazas, a los empleados que el negocio haya configurado para recibir invitaciones, utilizando las direcciones de email disponibles. Como consecuencia, Google Calendar puede enviar a dichos invitados correos de invitación y notificaciones relacionadas con la creación, modificación o cancelación del evento.
 
 Auragenda no utilizará datos obtenidos de Google para finalidades incompatibles con aquellas para las que el usuario concedió autorización.
 
