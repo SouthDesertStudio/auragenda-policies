@@ -1,0 +1,39 @@
+# Rebuilds auragenda.com when a policy changes. The Cloudflare Pages production build of
+# germanRB-SDS/auragenda-home pulls and validates these documents itself; this job only
+# triggers it through a deploy hook bound to the project's production branch.
+name: Rebuild auragenda.com
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - auragenda-privacy-policy.md
+      - auragenda-terms-of-service-policy.md
+      - auragenda-cookies-policy.md
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: rebuild-auragenda-site
+  cancel-in-progress: true
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Request the Cloudflare Pages production build
+        env:
+          HOOK: ${{ secrets.CLOUDFLARE_PAGES_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "::error::Repository secret CLOUDFLARE_PAGES_DEPLOY_HOOK is not set."
+            exit 1
+          fi
+          if ! response=$(curl -sS --fail-with-body --max-time 30 --retry 3 --retry-all-errors -X POST "$HOOK" 2>&1); then
+            echo "::error::Cloudflare deploy hook call failed."
+            exit 1
+          fi
+          id=$(printf '%s' "$response" | sed -n 's/.*"id":"\([0-9a-f-]*\)".*/\1/p' | head -n1)
+          echo "Cloudflare Pages production build requested${id:+ (deployment $id)}."

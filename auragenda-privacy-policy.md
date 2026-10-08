@@ -108,30 +108,25 @@ La conexión con Google se realiza mediante los mecanismos oficiales de autoriza
 
 En función de la funcionalidad utilizada y de los permisos expresamente autorizados por el usuario, Auragenda puede acceder a categorías de datos como:
 
-- Identidad básica necesaria para autenticar al usuario, como email e identificador de cuenta.
-- Identificadores de calendarios.
-- Identificadores de eventos.
-- Fechas y horas de eventos.
-- Disponibilidad y franjas ocupadas.
-- Estado de eventos.
-- Información necesaria para crear, consultar, actualizar o cancelar eventos relacionados con reservas.
+- Identidad básica de la Cuenta de Google conectada: email, nombre, imagen de perfil e identificador de cuenta.
+- La lista de calendarios de la cuenta (nombre e identificador de cada calendario), solo para localizar el calendario dedicado a las reservas.
+- Identificadores, fechas, horas y estado de los eventos que Auragenda crea en ese calendario dedicado.
 - Metadatos técnicos necesarios para mantener la sincronización.
 
-Auragenda limita el acceso a la información necesaria para proporcionar las funcionalidades activadas por el usuario.
+Auragenda no lee el contenido de otros calendarios ni de eventos que no haya creado, y no consulta la disponibilidad ni las franjas ocupadas de Google Calendar. Auragenda limita el acceso a la información necesaria para proporcionar las funcionalidades activadas por el usuario.
 
 ### 3.2. Cómo utiliza Auragenda los datos de Google
 
 Los datos obtenidos mediante Google APIs se utilizan exclusivamente para proporcionar funcionalidades visibles y solicitadas por el usuario, entre ellas:
 
 - Autenticar usuarios autorizados cuando se utilice Google Sign-In.
-- Consultar disponibilidad.
-- Evitar conflictos y dobles reservas.
-- Sincronizar una reserva con Google Calendar.
-- Crear eventos relacionados con reservas.
-- Actualizar eventos cuando una reserva cambie.
-- Cancelar o eliminar eventos relacionados con reservas cuando corresponda.
-- Mantener sincronizado el estado de la agenda entre Auragenda y Google Calendar.
+- Comprobar que la Cuenta de Google conectada es la autorizada para el negocio.
+- Crear, si no existe, un calendario dedicado a las reservas del negocio.
+- Crear en ese calendario el evento de cada reserva.
+- Actualizar el evento cuando la reserva cambie o se cancele.
 - Resolver errores de sincronización y proteger la integridad del servicio.
+
+Para ello, Auragenda envía a Google Calendar los datos de la reserva necesarios para el evento: servicio, fecha y hora, estado, nombre y teléfono del cliente, notas de la reserva y profesional asignado. Cuando el negocio lo tiene configurado, el cliente y el profesional se añaden como invitados por su email, y Google Calendar puede enviarles la invitación.
 
 Auragenda no utilizará datos obtenidos de Google para finalidades incompatibles con aquellas para las que el usuario concedió autorización.
 
@@ -146,7 +141,7 @@ Auragenda puede almacenar únicamente la información necesaria para mantener ac
 - Información mínima de sincronización.
 - Tokens o credenciales de autorización necesarios para mantener la conexión con Google, cuando resulte técnicamente necesario.
 
-Las credenciales y tokens de autorización se consideran información sensible y deben protegerse mediante controles de acceso y medidas técnicas apropiadas.
+Las credenciales y tokens de autorización se consideran información sensible: se almacenan cifrados y solo los utiliza el servidor de Auragenda para la sincronización, con controles de acceso y medidas técnicas apropiadas.
 
 Auragenda no conserva datos de Google durante más tiempo del necesario para proporcionar la funcionalidad correspondiente o cumplir obligaciones legales aplicables.
 
