@@ -1,330 +1,578 @@
 # Política de privacidad de Auragenda
 
-Última actualización: 21 de junio de 2026
+**Última actualización: 8 de octubre de 2026**
 
-Esta política de privacidad explica qué datos personales se tratan a través de Auragenda, para qué se utilizan, durante cuánto tiempo se conservan, con quién pueden compartirse y qué derechos pueden ejercer las personas usuarias.
+Esta Política de Privacidad explica qué datos personales se tratan a través de Auragenda, para qué se utilizan, durante cuánto tiempo pueden conservarse, con quién pueden compartirse y qué derechos pueden ejercer las personas usuarias.
 
-Auragenda es una herramienta de gestión de reservas utilizada por negocios y profesionales para organizar citas, servicios, horarios, profesionales, comunicaciones operativas y administración interna.
+**Auragenda** es una plataforma de gestión de reservas desarrollada por **South Desert Studio S.L.** que permite a negocios y profesionales gestionar citas, servicios, horarios, profesionales, comunicaciones operativas, disponibilidad y administración interna.
 
-Esta política debe completarse con los datos legales definitivos del negocio responsable antes de su publicación.
+Auragenda también puede integrar servicios externos, como Google Calendar, cuando el negocio o usuario autorizado activa voluntariamente dichas funcionalidades.
 
-## 1. Responsable del tratamiento
+---
 
-El responsable del tratamiento de los datos personales es el negocio o profesional que utiliza Auragenda para gestionar sus reservas.
+## 1. Responsables del tratamiento
 
-**Responsable:** [Nombre legal del negocio o profesional]
-**NIF/CIF:** [NIF/CIF]
-**Domicilio:** [Domicilio completo]
-**Email de contacto:** [Email de privacidad o contacto]
-**Teléfono:** [Teléfono, si procede]
-**Sitio web:** [Web del negocio, si procede]
+El tratamiento de datos realizado mediante Auragenda depende de la relación concreta con el servicio.
 
-South Desert Studio actúa como proveedor técnico de Auragenda y, cuando presta servicios de alojamiento, mantenimiento, soporte, asistencia técnica o administración de la aplicación, actúa como encargado del tratamiento respecto de los datos gestionados por el negocio.
+### 1.1. Datos gestionados por cada negocio
 
-Datos de contacto del proveedor técnico:
+Cuando una persona realiza una reserva, modifica una cita o facilita datos a un negocio que utiliza Auragenda, el **negocio o profesional correspondiente actúa como responsable del tratamiento** de los datos de sus clientes.
 
-* Web: https://southdesertstudio.com
-* Email: [hola@southdesertstudio.com](mailto:hola@southdesertstudio.com)
-* Instagram: @southdesertstudio
-* Teléfono: +34 604 858 298
+La identidad y los datos de contacto del negocio responsable deberán estar disponibles en su página de reserva, aviso legal, establecimiento o canales habituales de contacto.
 
-Para ejercer derechos sobre tus datos, debes contactar preferentemente con el negocio con el que has realizado o intentado realizar una reserva. También puedes escribir a South Desert Studio si necesitas ayuda para identificar el canal correcto o trasladar una solicitud técnica relacionada con Auragenda.
+South Desert Studio S.L., como proveedor tecnológico de Auragenda, puede actuar como **encargado del tratamiento** respecto de esos datos cuando presta servicios de alojamiento, mantenimiento, soporte, administración técnica o procesamiento de información por cuenta del negocio.
+
+### 1.2. Datos tratados directamente por Auragenda
+
+Para los tratamientos propios de la plataforma —como administración del servicio, autenticación, seguridad, soporte, integraciones, prevención de fraude y gestión técnica— el responsable es:
+
+**South Desert Studio S.L.**
+
+- Web: https://southdesertstudio.com
+- Email: hola@southdesertstudio.com
+- Producto: Auragenda
+- Web del producto: https://auragenda.com
+
+Para ejercer derechos relacionados con una reserva concreta, la persona interesada deberá contactar preferentemente con el negocio con el que realizó o intentó realizar la reserva.
+
+South Desert Studio podrá colaborar técnicamente para atender solicitudes relacionadas con Auragenda o ayudar a identificar el canal adecuado.
+
+---
 
 ## 2. Datos personales que se tratan
 
-Auragenda trata únicamente los datos necesarios para prestar el servicio de reservas, administración, seguridad y soporte.
+Auragenda trata únicamente los datos necesarios para proporcionar las funcionalidades de reservas, administración, sincronización, seguridad y soporte.
 
 ### 2.1. Datos de clientes
 
 Auragenda puede tratar los siguientes datos de clientes o personas que realizan reservas:
 
-* Nombre o identificador visible.
-* Email.
-* Teléfono de contacto.
-* Servicio solicitado o reservado.
-* Profesional asignado, cuando proceda.
-* Fecha, hora, duración y estado de la reserva.
-* Comunicaciones relacionadas con la reserva.
-* Notas introducidas por la persona usuaria o por el negocio.
-* Historial operativo de creación, modificación, cancelación, asistencia o ausencia.
-* Información técnica mínima necesaria para seguridad, trazabilidad y funcionamiento del servicio.
+- Nombre o identificador visible.
+- Email.
+- Teléfono de contacto.
+- Servicio solicitado o reservado.
+- Profesional asignado, cuando proceda.
+- Fecha, hora, duración y estado de la reserva.
+- Comunicaciones relacionadas con la reserva.
+- Notas introducidas por la persona usuaria o por el negocio.
+- Historial operativo de creación, modificación, cancelación, asistencia o ausencia.
+- Información técnica mínima necesaria para seguridad, trazabilidad y funcionamiento del servicio.
 
-Las notas de reserva son un campo libre. No deben incluirse datos especialmente sensibles salvo que sean estrictamente necesarios para gestionar la cita y exista una base jurídica adecuada para ello.
+Las notas de reserva son un campo libre. No deben incluirse datos especialmente sensibles salvo que sean estrictamente necesarios para gestionar la cita y exista una base jurídica adecuada.
 
 ### 2.2. Datos de usuarios administradores
 
 Auragenda puede tratar los siguientes datos de personas con acceso administrativo:
 
-* Nombre y apellidos.
-* Email.
-* Imagen o identificador de perfil, si se facilita.
-* Rol o nivel de permisos.
-* Estado de la cuenta.
-* Fecha de alta, último acceso y actividad administrativa relevante.
-* Información necesaria para verificar el acceso y proteger la cuenta.
+- Nombre y apellidos.
+- Email.
+- Imagen o identificador de perfil, cuando se facilite.
+- Rol o nivel de permisos.
+- Estado de la cuenta.
+- Fecha de alta, último acceso y actividad administrativa relevante.
+- Información necesaria para autenticar al usuario, verificar el acceso y proteger la cuenta.
 
-Auragenda no debe almacenar contraseñas en texto claro.
+Cuando el acceso se realiza mediante un proveedor de identidad externo, Auragenda puede recibir los datos mínimos necesarios para identificar al usuario y completar el proceso de autenticación.
+
+Auragenda no almacena contraseñas de proveedores externos.
 
 ### 2.3. Datos de profesionales y del negocio
 
-Auragenda puede tratar datos relativos a profesionales, empleados, colaboradores o recursos configurados por el negocio:
+Auragenda puede tratar datos relativos a profesionales, empleados, colaboradores o recursos configurados por un negocio, como:
 
-* Nombre profesional o comercial.
-* Email o dato de contacto profesional, si procede.
-* Servicios asignados.
-* Horarios, disponibilidad, ausencias, bloqueos y configuración operativa.
-* Imágenes, descripciones, textos comerciales, servicios, tarifas informativas y datos públicos del negocio.
+- Nombre profesional o comercial.
+- Email o dato de contacto profesional.
+- Servicios asignados.
+- Horarios.
+- Disponibilidad.
+- Ausencias y bloqueos.
+- Configuración operativa.
+- Imágenes.
+- Descripciones.
+- Textos comerciales.
+- Servicios.
+- Tarifas informativas.
+- Datos públicos del negocio.
 
-Si el negocio sube imágenes, textos o contenidos que permitan identificar a personas, será responsable de contar con la autorización, derecho de uso o base jurídica correspondiente.
+Cuando un negocio publique imágenes, textos o contenidos que permitan identificar a personas, será responsable de disponer de la autorización, derecho de uso o base jurídica correspondiente.
 
-### 2.4. Datos de calendario y sincronización
+---
 
-Si el negocio activa una integración de calendario o sincronización externa, Auragenda puede tratar los datos necesarios para crear, modificar, cancelar o consultar eventos relacionados con reservas.
+## 3. Integración con Google y Google Calendar
+
+Auragenda permite que determinados usuarios autorizados conecten voluntariamente una **Cuenta de Google** para utilizar funcionalidades relacionadas con autenticación y, cuando corresponda, integración con **Google Calendar**.
+
+La conexión con Google se realiza mediante los mecanismos oficiales de autorización de Google y requiere el consentimiento del usuario para los permisos solicitados.
+
+### 3.1. Datos de Google a los que Auragenda puede acceder
+
+En función de la funcionalidad utilizada y de los permisos expresamente autorizados por el usuario, Auragenda puede acceder a categorías de datos como:
+
+- Identidad básica necesaria para autenticar al usuario, como email e identificador de cuenta.
+- Identificadores de calendarios.
+- Identificadores de eventos.
+- Fechas y horas de eventos.
+- Disponibilidad y franjas ocupadas.
+- Estado de eventos.
+- Información necesaria para crear, consultar, actualizar o cancelar eventos relacionados con reservas.
+- Metadatos técnicos necesarios para mantener la sincronización.
+
+Auragenda limita el acceso a la información necesaria para proporcionar las funcionalidades activadas por el usuario.
+
+### 3.2. Cómo utiliza Auragenda los datos de Google
+
+Los datos obtenidos mediante Google APIs se utilizan exclusivamente para proporcionar funcionalidades visibles y solicitadas por el usuario, entre ellas:
+
+- Autenticar usuarios autorizados cuando se utilice Google Sign-In.
+- Consultar disponibilidad.
+- Evitar conflictos y dobles reservas.
+- Sincronizar una reserva con Google Calendar.
+- Crear eventos relacionados con reservas.
+- Actualizar eventos cuando una reserva cambie.
+- Cancelar o eliminar eventos relacionados con reservas cuando corresponda.
+- Mantener sincronizado el estado de la agenda entre Auragenda y Google Calendar.
+- Resolver errores de sincronización y proteger la integridad del servicio.
+
+Auragenda no utilizará datos obtenidos de Google para finalidades incompatibles con aquellas para las que el usuario concedió autorización.
+
+### 3.3. Almacenamiento de datos de Google
+
+Auragenda puede almacenar únicamente la información necesaria para mantener activa y segura la integración, que puede incluir:
+
+- Identificadores de cuenta.
+- Identificadores de calendarios.
+- Identificadores de eventos asociados a reservas.
+- Estado de la integración.
+- Información mínima de sincronización.
+- Tokens o credenciales de autorización necesarios para mantener la conexión con Google, cuando resulte técnicamente necesario.
+
+Las credenciales y tokens de autorización se consideran información sensible y deben protegerse mediante controles de acceso y medidas técnicas apropiadas.
+
+Auragenda no conserva datos de Google durante más tiempo del necesario para proporcionar la funcionalidad correspondiente o cumplir obligaciones legales aplicables.
+
+### 3.4. Compartición y transferencia de datos de Google
+
+Auragenda **no vende datos obtenidos de Google**.
+
+Auragenda tampoco utiliza ni transfiere datos obtenidos mediante Google APIs para:
+
+- publicidad dirigida;
+- publicidad personalizada;
+- retargeting;
+- elaboración de perfiles publicitarios;
+- venta a intermediarios o data brokers;
+- servicios de información sobre personas;
+- evaluación crediticia;
+- concesión de préstamos;
+- finalidades ajenas a las funcionalidades solicitadas por el usuario.
+
+Los datos de Google solo podrán ser comunicados o procesados por terceros cuando resulte necesario para:
+
+- proporcionar o mantener las funcionalidades solicitadas por el usuario;
+- operar la infraestructura técnica de Auragenda;
+- proteger la seguridad del servicio;
+- investigar errores o usos abusivos;
+- cumplir una obligación legal;
+- atender una solicitud legítima del usuario.
+
+Cuando proveedores tecnológicos actúen por cuenta de Auragenda, estarán sujetos a obligaciones apropiadas de confidencialidad, seguridad y protección de datos.
+
+### 3.5. Acceso humano a datos obtenidos de Google
+
+El personal de South Desert Studio o sus proveedores no accederá al contenido de datos obtenidos de Google salvo cuando:
+
+- el usuario haya autorizado expresamente dicho acceso;
+- resulte necesario para investigar y solucionar un problema técnico o de seguridad;
+- resulte necesario para prevenir fraude o abuso;
+- exista una obligación legal;
+- la información se encuentre agregada o anonimizada de forma compatible con la normativa aplicable.
+
+### 3.6. Inteligencia artificial y machine learning
+
+Los datos obtenidos mediante **Google Workspace APIs**, incluido Google Calendar, **no se utilizan para desarrollar, mejorar o entrenar modelos de inteligencia artificial o machine learning generalizados o no personalizados**.
+
+Auragenda tampoco vende ni transfiere datos de Google a terceros para entrenar este tipo de modelos.
+
+### 3.7. Revocación del acceso a Google
+
+El usuario puede desconectar la integración con Google desde las funcionalidades que Auragenda ponga a su disposición.
+
+Asimismo, puede administrar o revocar los permisos concedidos a Auragenda desde la configuración de seguridad de su Cuenta de Google.
+
+Cuando una integración sea desconectada o revocada, Auragenda dejará de utilizar las credenciales asociadas y eliminará o inutilizará aquellas que ya no sean necesarias para prestar el servicio, salvo cuando exista una obligación legal de conservación.
+
+### 3.8. Eliminación de datos relacionados con Google
+
+El usuario puede solicitar la eliminación de los datos vinculados a su integración con Google mediante los canales de contacto indicados en esta política.
+
+Cuando proceda la eliminación:
+
+- se revocarán o eliminarán las credenciales que ya no sean necesarias;
+- se eliminarán los datos de sincronización que no deban conservarse;
+- se desvincularán los identificadores externos de la cuenta;
+- los datos contenidos en copias de seguridad se eliminarán progresivamente conforme a los ciclos de retención establecidos.
+
+La revocación de Google no implica necesariamente la eliminación de una reserva o de otros datos que un negocio deba conservar legítimamente por motivos contractuales, legales, de seguridad o de ejercicio de derechos.
+
+### 3.9. Cumplimiento de las políticas de Google
+
+El uso y transferencia por Auragenda de información recibida mediante Google APIs se realiza de conformidad con la **Google API Services User Data Policy**, incluidos sus requisitos de **Limited Use**.
+
+---
+
+## 4. Datos de calendario y sincronización con otros proveedores
+
+Además de Google Calendar, Auragenda puede permitir en el futuro integraciones con otros proveedores de calendario o sincronización.
+
+Cuando un negocio active voluntariamente una integración externa, Auragenda podrá tratar los datos estrictamente necesarios para crear, modificar, cancelar o consultar eventos relacionados con reservas.
 
 Estos datos pueden incluir:
 
-* Identificador de la cuenta conectada.
-* Identificador del calendario o recurso de agenda configurado.
-* Estado de conexión.
-* Datos mínimos necesarios para mantener la sincronización.
-* Información de eventos vinculados a reservas.
+- Identificador de la cuenta conectada.
+- Identificador del calendario o recurso configurado.
+- Estado de conexión.
+- Datos mínimos necesarios para mantener la sincronización.
+- Información de eventos vinculados a reservas.
 
-El negocio debe utilizar calendarios o agendas adecuados para su actividad profesional y evitar mezclar información privada no relacionada con la gestión de reservas.
+Cada integración estará sujeta a los permisos concedidos por el usuario y a las condiciones y políticas aplicables del proveedor correspondiente.
 
-### 2.5. Datos de auditoría, seguridad y soporte
+El negocio debe utilizar calendarios adecuados para su actividad profesional y evitar mezclar información privada no relacionada con la gestión de reservas.
+
+---
+
+## 5. Datos de auditoría, seguridad y soporte
 
 Auragenda puede conservar registros internos de actividad para:
 
-* Verificar accesos.
-* Investigar errores.
-* Prevenir usos indebidos.
-* Reconstruir operaciones relevantes.
-* Mantener la integridad del servicio.
-* Atender incidencias o solicitudes de soporte.
+- Verificar accesos.
+- Investigar errores.
+- Prevenir usos indebidos.
+- Reconstruir operaciones relevantes.
+- Mantener la integridad del servicio.
+- Atender incidencias o solicitudes de soporte.
+- Detectar cambios no autorizados.
+- Proteger cuentas, negocios y usuarios.
 
-Estos registros pueden incluir identificadores, fechas, acciones realizadas, estados de operación y metadatos técnicos necesarios. No deben incluir contraseñas, credenciales secretas ni información innecesaria para la finalidad de seguridad o soporte.
+Estos registros pueden incluir identificadores, fechas, acciones realizadas, estados de operación y metadatos técnicos necesarios.
 
-## 3. Finalidades del tratamiento
+No deben incluir contraseñas, secretos de aplicaciones ni información que no resulte necesaria para las finalidades de seguridad o soporte.
 
-Los datos personales se tratan para las siguientes finalidades:
+---
 
-* Crear, gestionar, modificar y cancelar reservas.
-* Mostrar disponibilidad real.
-* Evitar solapamientos o dobles reservas.
-* Permitir al negocio administrar servicios, horarios, profesionales y configuración.
-* Enviar comunicaciones operativas relacionadas con la reserva.
-* Recordar citas, cambios, cancelaciones o información necesaria para la prestación del servicio.
-* Sincronizar reservas con herramientas de agenda o calendario cuando el negocio lo active.
-* Atender consultas, incidencias y solicitudes de soporte.
-* Mantener la seguridad, trazabilidad y correcto funcionamiento de Auragenda.
-* Cumplir obligaciones legales aplicables al negocio.
-* Gestionar solicitudes de acceso, rectificación, supresión, oposición, limitación y portabilidad.
-* Exportar, anonimizar, bloquear o eliminar datos cuando corresponda.
+## 6. Finalidades del tratamiento
+
+Los datos personales se tratan para:
+
+- Crear, gestionar, modificar y cancelar reservas.
+- Mostrar disponibilidad real.
+- Evitar solapamientos o dobles reservas.
+- Permitir al negocio administrar servicios, horarios, profesionales y configuración.
+- Autenticar usuarios autorizados.
+- Enviar comunicaciones operativas relacionadas con reservas.
+- Recordar citas, cambios o cancelaciones.
+- Sincronizar reservas con calendarios cuando el negocio active dicha función.
+- Atender consultas, incidencias y solicitudes de soporte.
+- Mantener la seguridad, trazabilidad y correcto funcionamiento de Auragenda.
+- Cumplir obligaciones legales aplicables.
+- Gestionar solicitudes relativas a derechos de protección de datos.
+- Exportar, anonimizar, bloquear o eliminar datos cuando corresponda.
 
 Auragenda no vende datos personales.
 
-## 4. Base jurídica del tratamiento
+---
 
-La base jurídica dependerá del uso concreto que haga cada negocio de Auragenda. Con carácter general, los tratamientos pueden basarse en:
+## 7. Base jurídica del tratamiento
 
-* **Ejecución de una relación contractual o precontractual:** para gestionar una reserva solicitada por la persona usuaria.
-* **Interés legítimo del negocio:** para administrar su agenda, prevenir errores, mantener la seguridad, atender incidencias y conservar trazabilidad operativa razonable.
-* **Cumplimiento de obligaciones legales:** cuando el negocio deba conservar o comunicar determinados datos por exigencia normativa.
-* **Consentimiento:** cuando sea necesario para comunicaciones no estrictamente operativas, determinados usos de imagen, integraciones voluntarias, analítica, marketing o tratamientos no imprescindibles.
-* **Interés vital o prestación asistencial:** solo en supuestos excepcionales y cuando la naturaleza del servicio lo justifique conforme a la normativa aplicable.
+La base jurídica dependerá del uso concreto de Auragenda y de la relación con cada usuario.
 
-Cuando el tratamiento se base en el consentimiento, este podrá retirarse en cualquier momento, sin que ello afecte a la licitud del tratamiento realizado antes de su retirada.
+Con carácter general, los tratamientos pueden basarse en:
 
-## 5. Datos especialmente protegidos
+- **Ejecución de una relación contractual o precontractual:** para gestionar una reserva o proporcionar una funcionalidad solicitada.
+- **Interés legítimo:** para administrar agendas, prevenir errores, proteger el servicio, atender incidencias y mantener trazabilidad razonable.
+- **Cumplimiento de obligaciones legales:** cuando sea necesario conservar o comunicar determinada información.
+- **Consentimiento:** para integraciones voluntarias, determinados tratamientos no imprescindibles o cuando sea exigido legalmente.
+- **Autorización del usuario a proveedores externos:** cuando el usuario conecta voluntariamente servicios como Google Calendar mediante OAuth.
 
-Auragenda puede ser utilizada por negocios de salud, bienestar, estética, deporte, terapias, asesoramiento u otros servicios personales. En algunos casos, una reserva puede revelar información sensible sobre una persona.
+Cuando el tratamiento se base en consentimiento, este podrá retirarse en cualquier momento sin afectar a la licitud del tratamiento realizado previamente.
 
-Auragenda no está diseñada como sistema de historia clínica ni como repositorio de diagnósticos, informes médicos, tratamientos clínicos o información sanitaria detallada.
+---
 
-No obstante, si una persona usuaria o el negocio introduce información especialmente sensible en notas, mensajes o campos libres, el negocio deberá asegurarse de que:
+## 8. Datos especialmente protegidos
 
-* El dato es necesario para la finalidad perseguida.
-* Existe una base jurídica válida.
-* Se informa correctamente a la persona afectada.
-* Se aplican medidas reforzadas de confidencialidad y acceso limitado.
-* No se conserva más tiempo del necesario.
+Auragenda puede utilizarse por negocios de salud, bienestar, estética, deporte, terapias, asesoramiento u otros servicios personales.
 
-Se recomienda no introducir datos especialmente sensibles salvo que sean imprescindibles para gestionar la cita o prestar el servicio solicitado.
+Una reserva puede, en determinadas circunstancias, revelar indirectamente información sensible sobre una persona.
 
-## 6. Comunicaciones operativas
+Auragenda **no está diseñada como sistema de historia clínica** ni como repositorio de diagnósticos, informes médicos, tratamientos clínicos o información sanitaria detallada.
 
-Auragenda puede permitir el envío de comunicaciones relacionadas con la reserva, por ejemplo:
+Si una persona o un negocio introduce información especialmente sensible en campos libres, deberá garantizar que:
 
-* Confirmaciones.
-* Recordatorios.
-* Cambios de horario.
-* Cancelaciones.
-* Avisos necesarios para la prestación del servicio.
-* Información operativa sobre la cita.
+- sea necesaria;
+- exista una base jurídica válida;
+- la persona afectada haya sido correctamente informada;
+- se apliquen medidas de confidencialidad adecuadas;
+- el acceso esté limitado;
+- no se conserve más tiempo del necesario.
 
-Estas comunicaciones se enviarán únicamente a los datos de contacto asociados a la reserva o a la cuenta correspondiente.
+Se recomienda no introducir datos especialmente sensibles salvo cuando sean imprescindibles.
 
-No se utilizarán los datos de clientes para comunicaciones comerciales no solicitadas salvo que exista una base jurídica adecuada y, cuando proceda, consentimiento previo.
+---
 
-## 7. Visibilidad pública del negocio
+## 9. Comunicaciones operativas
 
-Auragenda y los negocios que la utilizan pueden publicar información pública del negocio para facilitar su localización y contratación.
+Auragenda puede permitir el envío de comunicaciones relacionadas con una reserva, entre ellas:
 
-Esta información puede incluir:
+- Confirmaciones.
+- Recordatorios.
+- Cambios de horario.
+- Cancelaciones.
+- Avisos necesarios para prestar el servicio.
+- Información operativa sobre una cita.
 
-* Nombre comercial.
-* Descripción del negocio.
-* Servicios ofrecidos.
-* Horarios.
-* Zona o dirección, cuando proceda.
-* Teléfono o email de contacto público.
-* Web o enlace de reserva.
-* Imágenes del negocio.
-* Información comercial que el negocio decida publicar.
+Estas comunicaciones se enviarán únicamente a los datos de contacto asociados a la reserva o cuenta correspondiente.
 
-La información privada de clientes, reservas, notas, teléfonos personales, emails de clientes, datos de acceso, registros internos y datos de sincronización no se publican como información pública del negocio.
+Los datos de los clientes no se utilizarán para comunicaciones comerciales no solicitadas salvo que exista una base jurídica adecuada y, cuando proceda, consentimiento.
 
-Si en el futuro se incorporan herramientas de medición, analítica, publicidad, personalización o seguimiento que requieran información adicional o consentimiento, se informará en la política correspondiente y, cuando proceda, se solicitará consentimiento previo.
+---
 
-## 8. Destinatarios y encargados del tratamiento
+## 10. Visibilidad pública del negocio
 
-Los datos personales podrán ser tratados por:
+Los negocios que utilizan Auragenda pueden publicar determinada información para facilitar su localización y contratación.
 
-* El negocio responsable de la reserva.
-* South Desert Studio, como proveedor técnico y encargado del tratamiento.
-* Proveedores necesarios para alojar, mantener, proteger o ejecutar Auragenda.
-* Proveedores de comunicaciones, cuando se activen recordatorios o avisos.
-* Proveedores de calendario, agenda o sincronización, cuando el negocio active dichas funciones.
-* Proveedores de soporte, mantenimiento, copias de seguridad o seguridad técnica.
-* Autoridades públicas, jueces, tribunales o administraciones competentes, cuando exista obligación legal.
+Puede incluir:
 
-Los proveedores que accedan a datos personales deberán hacerlo conforme a instrucciones del responsable y bajo compromisos adecuados de confidencialidad, seguridad y protección de datos.
+- Nombre comercial.
+- Descripción.
+- Servicios ofrecidos.
+- Horarios.
+- Zona o dirección.
+- Teléfono o email de contacto público.
+- Web o enlace de reserva.
+- Imágenes.
+- Información comercial proporcionada por el negocio.
 
-## 9. Transferencias internacionales
+No se publica como información pública:
 
-Algunos proveedores tecnológicos pueden estar ubicados fuera del Espacio Económico Europeo o prestar servicios desde países terceros.
+- información privada de clientes;
+- reservas;
+- notas;
+- teléfonos o emails privados de clientes;
+- datos de acceso;
+- registros internos;
+- credenciales;
+- tokens;
+- información privada obtenida de Google;
+- datos internos de sincronización.
 
-Cuando se produzcan transferencias internacionales de datos, el responsable o el encargado deberán asegurarse de que existen garantías adecuadas conforme a la normativa aplicable, como decisiones de adecuación, cláusulas contractuales tipo, normas corporativas vinculantes u otros mecanismos válidos.
+---
 
-Si un negocio utiliza servicios externos propios conectados a Auragenda, deberá verificar que dichos servicios cumplen con la normativa aplicable en materia de protección de datos.
+## 11. Destinatarios y proveedores
 
-## 10. Conservación de los datos
+Los datos personales podrán ser tratados, según corresponda, por:
 
-Los datos se conservarán durante el tiempo necesario para cumplir las finalidades para las que fueron recogidos.
+- El negocio responsable de la reserva.
+- South Desert Studio S.L. como proveedor de Auragenda.
+- Proveedores de infraestructura y alojamiento.
+- Proveedores de comunicaciones.
+- Proveedores de calendario y sincronización cuando el usuario active esas funciones.
+- Proveedores de soporte, mantenimiento, copias de seguridad y seguridad.
+- Autoridades públicas, jueces, tribunales o administraciones cuando exista obligación legal.
+
+Los proveedores que tengan acceso a datos personales deberán tratarlos conforme a las finalidades correspondientes y bajo obligaciones apropiadas de confidencialidad y seguridad.
+
+Los datos obtenidos mediante APIs de Google estarán además sujetos a las limitaciones establecidas específicamente en la sección relativa a Google.
+
+---
+
+## 12. Transferencias internacionales
+
+Algunos proveedores tecnológicos pueden estar ubicados fuera del Espacio Económico Europeo o prestar servicios desde terceros países.
+
+Cuando se produzcan transferencias internacionales de datos, se utilizarán, cuando resulten aplicables, mecanismos reconocidos por la normativa de protección de datos, como:
+
+- decisiones de adecuación;
+- cláusulas contractuales tipo;
+- normas corporativas vinculantes;
+- u otras garantías legalmente válidas.
+
+Cuando un negocio conecte servicios externos propios a Auragenda, será responsable de verificar que dichos servicios resulten adecuados para su tratamiento de datos.
+
+---
+
+## 13. Conservación de los datos
+
+Los datos se conservarán únicamente durante el tiempo necesario para cumplir las finalidades para las que fueron recogidos.
 
 Con carácter general:
 
-* Los datos de reservas se conservarán mientras sean necesarios para gestionar la cita, atender incidencias, acreditar operaciones y cumplir obligaciones aplicables.
-* Los datos de clientes se conservarán mientras exista relación con el negocio o mientras puedan derivarse responsabilidades.
-* Los datos administrativos se conservarán mientras la cuenta esté activa o mientras sean necesarios para auditoría, seguridad o cumplimiento.
-* Los registros de actividad se conservarán durante el plazo necesario para seguridad, trazabilidad, soporte y prevención de incidencias.
-* Los datos incluidos en copias de seguridad se conservarán conforme a la política de retención aplicable y se eliminarán o sobrescribirán de forma progresiva según los ciclos establecidos.
-* Cuando proceda, los datos podrán bloquearse durante los plazos legales de prescripción y eliminarse posteriormente.
+- Los datos de reservas se conservarán mientras sean necesarios para gestionar la cita, resolver incidencias y cumplir obligaciones aplicables.
+- Los datos de clientes se conservarán mientras exista relación con el negocio o puedan derivarse responsabilidades.
+- Los datos administrativos se conservarán mientras la cuenta esté activa o resulte necesario para auditoría, seguridad o cumplimiento.
+- Los datos de sincronización se conservarán mientras la integración correspondiente permanezca activa y sean necesarios para su funcionamiento.
+- Las credenciales o tokens de integraciones se conservarán únicamente mientras sean necesarios para mantener la autorización.
+- Los registros de actividad se conservarán durante el periodo necesario para seguridad, trazabilidad y prevención de incidencias.
+- Los datos contenidos en copias de seguridad se eliminarán o sobrescribirán progresivamente conforme a los ciclos de retención aplicables.
+- Cuando proceda, determinados datos podrán bloquearse durante los plazos legales de prescripción antes de su eliminación definitiva.
 
-El negocio responsable deberá definir y aplicar plazos de conservación concretos de acuerdo con su actividad, sector y obligaciones legales.
+---
 
-## 11. Seguridad de los datos
+## 14. Seguridad de los datos
 
-Auragenda aplica medidas técnicas y organizativas orientadas a proteger los datos personales frente a accesos no autorizados, pérdida, alteración, divulgación indebida o uso no permitido.
+Auragenda aplica medidas técnicas y organizativas destinadas a proteger los datos personales y los datos obtenidos mediante integraciones externas frente a accesos no autorizados, pérdida, alteración, divulgación indebida o uso no permitido.
 
 Estas medidas pueden incluir:
 
-* Control de acceso por perfiles o roles.
-* Gestión segura de sesiones.
-* Protección de credenciales.
-* Separación lógica de datos entre negocios.
-* Registro de operaciones relevantes.
-* Copias de seguridad.
-* Restricción de acceso a información sensible.
-* Protección de comunicaciones.
-* Revisión y mantenimiento de la aplicación.
-* Medidas de prevención frente a usos abusivos o accesos indebidos.
-* Procedimientos de respuesta ante incidencias.
+- Control de acceso basado en roles.
+- Gestión segura de sesiones.
+- Protección de credenciales.
+- Separación lógica de datos entre negocios.
+- Registro de operaciones relevantes.
+- Copias de seguridad.
+- Restricción de acceso a información sensible.
+- Protección de comunicaciones mediante cifrado.
+- Restricción del acceso a entornos de producción.
+- Gestión segura de secretos y credenciales.
+- Revisión y mantenimiento de la aplicación.
+- Prevención de usos abusivos.
+- Procedimientos de respuesta ante incidentes.
 
-La seguridad absoluta no puede garantizarse, pero Auragenda está diseñada para aplicar medidas proporcionales al riesgo, al tipo de datos tratados y al contexto del servicio.
+La seguridad absoluta no puede garantizarse, pero Auragenda aplica medidas proporcionales al riesgo, al tipo de información y al contexto del tratamiento.
 
-## 12. Confidencialidad
+---
 
-El negocio responsable, South Desert Studio y los proveedores que intervengan en la prestación del servicio deberán tratar los datos personales con confidencialidad.
+## 15. Confidencialidad
 
-Las personas con acceso administrativo solo deberán acceder a los datos necesarios para cumplir sus funciones. El acceso indebido, la descarga injustificada, la comunicación no autorizada o el uso de datos para finalidades ajenas a la gestión del servicio no están permitidos.
+El negocio responsable, South Desert Studio S.L. y los proveedores que intervengan en la prestación del servicio deberán tratar los datos personales de forma confidencial.
 
-## 13. Derechos de las personas usuarias
+Las personas con acceso administrativo o técnico solo deberán acceder a la información necesaria para realizar sus funciones.
 
-Las personas afectadas pueden ejercer, cuando proceda, los siguientes derechos:
+No está permitido:
 
-* Derecho de acceso.
-* Derecho de rectificación.
-* Derecho de supresión.
-* Derecho de oposición.
-* Derecho a la limitación del tratamiento.
-* Derecho a la portabilidad.
-* Derecho a retirar el consentimiento, cuando el tratamiento se base en consentimiento.
-* Derecho a no ser objeto de decisiones automatizadas con efectos jurídicos o similares, salvo en los casos permitidos por la normativa.
+- el acceso injustificado;
+- la descarga innecesaria;
+- la comunicación no autorizada;
+- el uso de información para finalidades ajenas al servicio.
 
-Para ejercer estos derechos, la persona interesada debe dirigirse al negocio responsable de la reserva a través del canal de contacto indicado en esta política o en la web de reservas.
+---
 
-La solicitud deberá permitir identificar razonablemente a la persona solicitante y concretar el derecho que desea ejercer.
+## 16. Derechos de las personas usuarias
 
-South Desert Studio podrá colaborar técnicamente con el negocio para atender la solicitud, pero la decisión sobre el tratamiento corresponde al responsable.
+Las personas afectadas pueden ejercer, cuando proceda:
 
-## 14. Reclamaciones ante la autoridad de control
+- Derecho de acceso.
+- Derecho de rectificación.
+- Derecho de supresión.
+- Derecho de oposición.
+- Derecho a la limitación del tratamiento.
+- Derecho a la portabilidad.
+- Derecho a retirar el consentimiento.
+- Derecho a no ser objeto de determinadas decisiones automatizadas cuando resulte aplicable.
 
-Si consideras que el tratamiento de tus datos personales no se ajusta a la normativa aplicable, puedes presentar una reclamación ante la Agencia Española de Protección de Datos.
+Cuando la solicitud se refiera a información gestionada por un negocio mediante Auragenda, deberá dirigirse preferentemente a dicho negocio.
 
-Antes de presentar una reclamación, se recomienda contactar con el negocio responsable para intentar resolver la solicitud o incidencia.
+Para cuestiones relacionadas directamente con Auragenda o sus integraciones puede contactarse con South Desert Studio a través de:
 
-## 15. Menores de edad
+**hola@southdesertstudio.com**
+
+South Desert Studio podrá colaborar técnicamente con el negocio correspondiente para atender las solicitudes.
+
+---
+
+## 17. Revocación de integraciones y eliminación de cuenta
+
+Los usuarios podrán solicitar, cuando resulte aplicable:
+
+- la desconexión de integraciones externas;
+- la revocación de autorizaciones;
+- la eliminación de credenciales asociadas;
+- la eliminación de su cuenta;
+- la eliminación de datos personales que no deban conservarse.
+
+En el caso de Google, el usuario también puede retirar directamente el acceso desde la configuración de seguridad de su Cuenta de Google.
+
+La eliminación estará sujeta a las obligaciones legales de conservación que puedan resultar aplicables.
+
+---
+
+## 18. Reclamaciones ante la autoridad de control
+
+Si una persona considera que el tratamiento de sus datos personales infringe la normativa aplicable, puede presentar una reclamación ante la **Agencia Española de Protección de Datos (AEPD)**.
+
+Antes de presentar una reclamación, puede contactar con el negocio responsable o con Auragenda para intentar resolver la solicitud o incidencia.
+
+---
+
+## 19. Menores de edad
 
 Auragenda no está dirigida específicamente a menores de edad.
 
-Si una reserva corresponde a una persona menor de edad, el negocio deberá asegurarse de que el tratamiento de datos se realiza conforme a la normativa aplicable y, cuando sea necesario, con intervención de sus representantes legales.
+Cuando una reserva corresponda a una persona menor, el negocio deberá asegurarse de que el tratamiento se realiza conforme a la normativa aplicable y, cuando sea necesario, con intervención de sus representantes legales.
 
-## 16. Datos de terceros
+---
 
-La persona usuaria no debe introducir datos personales de terceros salvo que tenga autorización suficiente para hacerlo y dichos datos sean necesarios para gestionar la reserva.
+## 20. Datos de terceros
 
-Si una persona reserva en nombre de otra, declara que cuenta con autorización para facilitar los datos necesarios y que ha informado a la persona afectada sobre el tratamiento de sus datos.
+Una persona usuaria no debe introducir datos personales de terceros salvo que disponga de autorización suficiente y dichos datos sean necesarios para gestionar la reserva.
 
-## 17. Imágenes y contenidos del negocio
+Cuando una persona reserve en nombre de otra, deberá disponer de legitimación suficiente para proporcionar los datos necesarios.
+
+---
+
+## 21. Imágenes y contenidos del negocio
 
 El negocio es responsable de los textos, imágenes, descripciones, servicios, tarifas, horarios y demás contenidos que publique o configure en Auragenda.
 
-Si dichos contenidos incluyen datos personales, imágenes de personas, datos de empleados, profesionales, clientes o terceros, el negocio deberá contar con una base jurídica adecuada y respetar los derechos de las personas afectadas.
+Si dichos contenidos incluyen datos personales, imágenes o información de empleados, profesionales, clientes o terceros, el negocio deberá disponer de una base jurídica válida y respetar los derechos de las personas afectadas.
 
-## 18. Tratamientos no permitidos
+---
+
+## 22. Tratamientos no permitidos
 
 Auragenda no debe utilizarse para:
 
-* Almacenar información que no sea necesaria para la gestión de reservas.
-* Crear bases de datos de salud, diagnóstico o historial clínico si no existe una base jurídica adecuada y medidas específicas.
-* Enviar comunicaciones comerciales sin base jurídica.
-* Publicar datos privados de clientes.
-* Compartir credenciales, accesos o información confidencial.
-* Tratar datos de terceros sin autorización o legitimación suficiente.
+- almacenar información innecesaria para la gestión del servicio;
+- crear bases de datos de salud o historiales clínicos sin base jurídica y medidas específicas;
+- enviar comunicaciones comerciales sin legitimación;
+- publicar datos privados de clientes;
+- compartir credenciales o secretos;
+- tratar datos de terceros sin legitimación;
+- vender datos personales;
+- utilizar datos obtenidos mediante Google APIs para publicidad dirigida o personalizada;
+- utilizar datos obtenidos mediante Google APIs para determinar solvencia o capacidad crediticia;
+- transferir datos de Google a data brokers o revendedores de información;
+- utilizar datos de Google para entrenar modelos de IA o ML generalizados o no personalizados.
 
-El negocio responsable deberá configurar y usar Auragenda de forma compatible con la normativa aplicable.
+---
 
-## 19. Cambios en esta política
+## 23. Cambios en esta política
 
-Esta política puede actualizarse cuando cambien las funcionalidades de Auragenda, los tratamientos realizados, los proveedores utilizados, las medidas de seguridad o la normativa aplicable.
+Esta Política de Privacidad puede actualizarse cuando cambien:
 
-La fecha de última actualización indicará la versión vigente.
+- las funcionalidades de Auragenda;
+- las integraciones disponibles;
+- los tratamientos realizados;
+- los proveedores utilizados;
+- las medidas de seguridad;
+- las políticas de los proveedores de APIs;
+- o la normativa aplicable.
 
-Cuando los cambios sean relevantes, el negocio responsable deberá informar a las personas usuarias por medios adecuados.
+La fecha indicada al inicio identifica la versión vigente.
 
-## 20. Contacto
+Cuando un cambio afecte materialmente a la forma en que Auragenda utiliza datos personales o datos obtenidos mediante Google APIs, se actualizará esta política y se informará a los usuarios cuando resulte necesario.
 
-Para cuestiones relacionadas con reservas, datos personales o ejercicio de derechos, contacta con:
+---
 
-**Responsable:** [Nombre legal del negocio o profesional]
-**Email:** [Email de privacidad o contacto]
-**Teléfono:** [Teléfono, si procede]
-**Dirección:** [Domicilio completo]
+## 24. Contacto
 
-Para soporte técnico relacionado con Auragenda:
+Para consultas relacionadas con una reserva o con datos gestionados por un negocio concreto, debe contactarse preferentemente con dicho negocio.
 
-**South Desert Studio**
-Web: https://southdesertstudio.com
-Email: [hola@southdesertstudio.com](mailto:hola@southdesertstudio.com)
-Teléfono: +34 604 858 298
+Para cuestiones relacionadas con Auragenda, privacidad, integraciones, seguridad o soporte técnico:
+
+**South Desert Studio S.L.**
+
+- Auragenda: https://auragenda.com
+- Web: https://southdesertstudio.com
+- Email: hola@southdesertstudio.com
+- Teléfono: +34 604 858 298
+
+Para cuestiones técnicas relacionadas con la integración con Google o para solicitar la eliminación de datos asociados a dicha integración, puede utilizarse igualmente el correo de contacto indicado anteriormente.
