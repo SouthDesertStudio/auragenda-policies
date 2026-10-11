@@ -109,11 +109,11 @@ La conexión con Google se realiza mediante los mecanismos oficiales de autoriza
 En función de la funcionalidad utilizada y de los permisos expresamente autorizados por el usuario, Auragenda puede acceder a categorías de datos como:
 
 - Identidad básica de la Cuenta de Google conectada: email, nombre, imagen de perfil e identificador de cuenta.
-- La lista de calendarios de la cuenta (nombre e identificador de cada calendario), solo para localizar el calendario dedicado a las reservas.
+- El calendario dedicado a las reservas que crea Auragenda: su identificador, nombre y zona horaria. Auragenda guarda ese identificador para volver a utilizar el mismo calendario si el negocio reconecta Google Calendar.
 - Identificadores, fechas, horas y estado de los eventos que Auragenda crea en ese calendario dedicado.
 - Metadatos técnicos necesarios para mantener la sincronización.
 
-Auragenda no lee el contenido de otros calendarios ni de eventos que no haya creado, y no consulta la disponibilidad ni las franjas ocupadas de Google Calendar. Auragenda limita el acceso a la información necesaria para proporcionar las funcionalidades activadas por el usuario.
+El permiso de Google Calendar que solicita Auragenda solo da acceso a los calendarios creados por la propia Auragenda: Auragenda no puede ver ni modificar otros calendarios ni sus eventos, no consulta la lista de calendarios de la cuenta y no consulta la disponibilidad ni las franjas ocupadas de Google Calendar. Auragenda limita el acceso a la información necesaria para proporcionar las funcionalidades activadas por el usuario.
 
 ### 3.2. Cómo utiliza Auragenda los datos de Google
 
@@ -121,7 +121,7 @@ Los datos obtenidos mediante Google APIs se utilizan exclusivamente para proporc
 
 - Autenticar usuarios autorizados cuando se utilice Google Sign-In.
 - Comprobar que la Cuenta de Google conectada es la autorizada para el negocio.
-- Crear, si no existe, un calendario dedicado a las reservas del negocio.
+- Crear, si no existe, un calendario dedicado a las reservas del negocio, o volver a utilizar el que Auragenda ya creó para ese negocio y esa Cuenta de Google.
 - Crear en ese calendario el evento de cada reserva.
 - Actualizar el evento cuando la reserva cambie o se cancele.
 - Resolver errores de sincronización y proteger la integridad del servicio.
